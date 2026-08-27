@@ -1,5 +1,14 @@
 # Real-Time Tic Tac Toe
 
+🔗 **Live Demo:** https://tic-tac-toe-assignment-5-kaushal.onrender.com
+
+Socket Programming Assignment | Node.js + Express + Socket.io + MongoDB
+
+## Description
+A real-time multiplayer Tic Tac Toe game where two players can join with a username, get assigned X/O, play in real-time with instant move sync, and have their game results saved to MongoDB.
+
+# Real-Time Tic Tac Toe
+
 Socket Programming Assignment | Node.js + Express + Socket.io + MongoDB
 
 ## Description
